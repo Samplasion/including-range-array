@@ -1,6 +1,6 @@
 {
   "name": "including-range-array",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "This module allows to create a \"range\", an array containing all the numbers between the limits, including them.",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,7 @@
   "author": "Samplasion",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Samplasion/range-array/issues"
+    "url": "https://github.com/Samplasion/including-range-array/issues"
   },
-  "homepage": "https://github.com/Samplasion/range-array#readme"
+  "homepage": "https://github.com/Samplasion/including-range-array#readme"
 }

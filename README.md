@@ -28,6 +28,7 @@ To use it, instead, you do like this:
 
 ```js
 random(10) // => 6
+
 // You can also specify a 'min' number
 random(10, 4) // => 8
 ```
