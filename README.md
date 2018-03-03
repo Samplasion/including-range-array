@@ -1,6 +1,6 @@
-# range-array
+# including-range-array
 
-**range-array** is a simple module, which adds two new methods, namely `range()` and `random()`.
+**including-range-array** is a simple module, which adds two new methods, namely `range()` and `random()`.
 
 ## Usage
 
